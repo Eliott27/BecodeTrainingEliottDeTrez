@@ -1,4 +1,4 @@
-#Comment fonctionne Internet
+# Comment fonctionne Internet
 
 - Internet est utile car il permet à deux ordinateurs qui sont connecté a internet de communiquer entre eux.
 
