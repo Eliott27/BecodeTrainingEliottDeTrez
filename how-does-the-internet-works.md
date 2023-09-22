@@ -9,3 +9,5 @@
 - Nos ordinateurs sont indirectement connecté a internet 
 
 - Le routeurs permet de diriger les paquets sur internet 
+
+this theory file has been reviewed by Yannick Yanga.
